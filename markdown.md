@@ -1,5 +1,4 @@
 
-[markdown.md](https://github.com/user-attachments/files/32894318/markdown.md)
 좋아. 앞으로는 별도의 문서 블록 없이 **그냥 답변 형태로** 정리해줄게.
 
  아래 내용은 그대로 복사해서 `markdown-guide.md` 파일에 저장하거나 GitHub에 올리면 되는 **Markdown 공부 자료**야.
